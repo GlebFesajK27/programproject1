@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="DominoConsole/DominoConsole.vcxproj" Id="5a4c758d-1439-4cdb-9155-a726db248165" />
+</Solution>
